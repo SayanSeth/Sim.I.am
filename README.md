@@ -10,4 +10,4 @@ Sim.I.am is maintained by the Georgia Robotics and InTelligent (GRITS) Laborator
 
 Originally developed by Jean-Pierre de la Croix and Added support for MATLAB 2014b and Later by Sayan Seth
 
-    ![ScreenShot](https://github.com/SayanSeth/Sim.I.am/blob/master/pic.png)
+    ![ScreenShot](https://raw.githubusercontent.com/SayanSeth/Sim.I.am/master/pic.png)
