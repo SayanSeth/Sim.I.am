@@ -13,6 +13,7 @@ Originally developed by <a href="http://jpdelacroix.com/simiam/">Jean-Pierre de 
 
 
 ![ScreenShot](https://raw.githubusercontent.com/SayanSeth/Sim.I.am/master/pic.png)
-![ScreenShot](https://raw.githubusercontent.com/SayanSeth/Sim.I.am/master/Screenshot.png)
 
-Alternatively, You can download the App from [MATLAB Central File Exchange]: https://in.mathworks.com/matlabcentral/fileexchange/65274-sim-i-am
+Alternatively, You can download the App from [MATLAB Central File Exchange](https://in.mathworks.com/matlabcentral/fileexchange/65274-sim-i-am/)
+
+![ScreenShot](https://raw.githubusercontent.com/SayanSeth/Sim.I.am/master/Screenshot.png)
